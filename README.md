@@ -1,6 +1,6 @@
 # 👩‍💻 About Me
 
-Hi, I’m **Deepshika D**, a final-year Computer Science Engineering student at VIT Chennai, specializing in **Artificial Intelligence, Machine Learning, and Robotics**. My journey blends strong academic performance with hands-on experience in building intelligent systems, automation workflows, and data-driven solutions.
+Hi, I’m **Deepshika D**, a final-year Computer Science Engineering student, specializing in **Artificial Intelligence and Robotics**. My journey blends strong academic performance with hands-on experience in building intelligent systems, automation workflows, and data-driven solutions.
 
 I thrive at the intersection of **AI research, robotics, and practical problem-solving**, with a proven track record of developing impactful projects such as:
 - 🚁 **Zero-Shot UAV Landing Zone Detection** using YOLOv12 and transformer-based vision-language models (mAP@0.5 = 0.96).
@@ -27,5 +27,5 @@ I thrive at the intersection of **AI research, robotics, and practical problem-s
 - Currently developing **Flatify**, a real-time apartment management web application for live clients  
 
 ---
+I am driven by curiosity and a passion for **emerging technologies**, constantly seeking opportunities to learn, innovate, and contribute to impactful solutions. My GitHub is a space where I share projects, experiments, and collaborations that reflect this journey of growth and exploration. 🚀
 
-I am passionate about **pushing the boundaries of AI and robotics**, with a vision to pursue advanced research and real-world applications in automation and intelligent systems. My GitHub is where I share projects, experiments, and collaborations that reflect this journey. 🚀
