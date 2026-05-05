@@ -1,31 +1,24 @@
-# 👩‍💻 About Me
+# 💫 About Me:
+Hi, I’m Deepshika D, a final-year Computer Science Engineering student, specializing in Artificial Intelligence and Robotics. My journey blends strong academic performance with hands-on experience in building intelligent systems, automation workflows, and data-driven solutions.<br><br>I thrive at the intersection of AI research, robotics, and practical problem-solving, with a proven track record of developing impactful projects such as:<br><br>🚁 Zero-Shot UAV Landing Zone Detection using YOLOv12 and transformer-based vision-language models (mAP@0.5 = 0.96).<br>🏫 Faculty Churn Minimization with meta-learning and NLP, achieving 90%+ prediction accuracy.<br>⚖️ Autonomous Courtroom Robot integrating ROS, Whisper, and Mediapipe for real-time transcription, speaker recognition, and behavioral analysis.<br>🚑 Smart Ambulance Dispatch System leveraging YOLO and predictive analytics to optimize emergency response times.<br>📈 Professional Experience<br>AI/ML Intern – TNQ Tech (2024): R&D on Large Language Models, AI-based image testing, and innovation in model evaluation.<br>Data Analytics Intern – Corizo (2023): Built predictive models for wine quality and stock market analysis using Python and Power BI.<br>Database Optimization Intern – AK Industries (2023): Improved workflows and database efficiency by 15% through SQL and Excel optimization.<br>🎓 Certifications & Achievements<br>Networking Basics (CISCO), Introduction to AI (IBM), Elements of AI (University of Helsinki)<br>IIT Bombay certifications in Python, C, and C++<br>Data Science coursework at IIT Madras (2024)<br>Currently developing Flatify, a real-time apartment management web application for live clients<br>I am driven by curiosity and a passion for emerging technologies, constantly seeking opportunities to learn, innovate, and contribute to impactful solutions. My GitHub is a space where I share projects, experiments, and collaborations that reflect this journey of growth and exploration. 🚀
 
-Hi, I’m **Deepshika D**, a final-year Computer Science Engineering student, specializing in **Artificial Intelligence and Robotics**. My journey blends strong academic performance with hands-on experience in building intelligent systems, automation workflows, and data-driven solutions.
 
-I thrive at the intersection of **AI research, robotics, and practical problem-solving**, with a proven track record of developing impactful projects such as:
-- 🚁 **Zero-Shot UAV Landing Zone Detection** using YOLOv12 and transformer-based vision-language models (mAP@0.5 = 0.96).
-- 🏫 **Faculty Churn Minimization** with meta-learning and NLP, achieving 90%+ prediction accuracy.
-- ⚖️ **Autonomous Courtroom Robot** integrating ROS, Whisper, and Mediapipe for real-time transcription, speaker recognition, and behavioral analysis.
-- 🚑 **Smart Ambulance Dispatch System** leveraging YOLO and predictive analytics to optimize emergency response times.
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ddeepshika196@gmail.com) 
 
-### 🔧 Technical Expertise
-- **Languages:** Python (Advanced),javascript(intermediate)
-- **Frameworks & Tools:** React, Node.js, scikit-learn, NuMind, LM Studio, OpenCV, Flask  
-- **Data & Cloud Platforms:** SQL, Power BI, Tableau, AWS SageMaker, AWS Quicksight  
-- **Robotics & Hardware:** Arduino, MATLAB, ROS  
-- **Other Skills:** Strong communication, collaboration, and leadership 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=deepshika196&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=deepshika196&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepshika196&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📈 Professional Experience
-- **AI/ML Intern – TNQ Tech (2024):** R&D on Large Language Models, AI-based image testing, and innovation in model evaluation.  
-- **Data Analytics Intern – Corizo (2023):** Built predictive models for wine quality and stock market analysis using Python and Power BI.  
-- **Database Optimization Intern – AK Industries (2023):** Improved workflows and database efficiency by 15% through SQL and Excel optimization.  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deepshika196&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🎓 Certifications & Achievements
-- Networking Basics (CISCO), Introduction to AI (IBM), Elements of AI (University of Helsinki)  
-- IIT Bombay certifications in Python, C, and C++  
-- Data Science coursework at IIT Madras (2024)  
-- Currently developing **Flatify**, a real-time apartment management web application for live clients  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=deepshika196&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-I am driven by curiosity and a passion for **emerging technologies**, constantly seeking opportunities to learn, innovate, and contribute to impactful solutions. My GitHub is a space where I share projects, experiments, and collaborations that reflect this journey of growth and exploration. 🚀
+[![](https://komarev.com/ghpvc/?username=deepshika196&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
